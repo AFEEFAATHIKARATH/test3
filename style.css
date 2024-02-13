@@ -1,0 +1,46 @@
+*body{
+    margin: 0%;
+    padding: 0%;
+}
+.firstbar{
+    height: 1000px;
+}
+
+@media (max-width: 800px) {
+    .firstbar {
+        height:300px;
+        
+    }
+        .second-card {
+            height: 400px;
+        }
+   
+   
+       
+}
+.second{
+    height:1000px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+}
+.content{
+    font-size: x-small;
+    letter-spacing: 2px;
+}
+.h5{
+    height: 100px;
+}
+.cards-1{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+
+}
+.cards-2 {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+
+}
+.second-card{
+  
+
+}
